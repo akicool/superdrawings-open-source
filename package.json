@@ -10,20 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.47.6",
     "@tabler/icons-react": "^3.24.0",
-    "@tldraw/core": "^1.23.2",
     "clsx": "^2.1.1",
-    "i": "^0.3.7",
-    "npm": "^10.9.2",
     "perfect-freehand": "^1.2.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-parallax-card": "^0.5.7",
-    "react-responsive-masonry": "^2.6.0",
-    "react-router": "^7.0.2",
-    "react-toastify": "^10.0.6",
-    "tldraw": "^3.6.0"
+    "react-router": "^7.0.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
