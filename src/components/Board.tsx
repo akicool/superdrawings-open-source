@@ -7,7 +7,6 @@ import {
   IconEraser,
   IconTrash,
 } from "@tabler/icons-react";
-import "react-toastify/dist/ReactToastify.css";
 
 import { getSvgPathFromStroke, handleSave, getOptions } from "../utils";
 import { EMPTY_COLOR, SIZES } from "../constants";
